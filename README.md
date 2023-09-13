@@ -71,7 +71,7 @@ The regular workflow using BlendGen is the following.
 </div>
 
 ## Cite
-Paper under review
+Paper accepted at International Journal of Computer Information Systems and Industrial Management Applications
 ```
 @inproceedings{blendgen_ijcisim2022_cmaron,
     author = {Cedric Maron, Virginie Fresse, Karynn Morand and Hubert Konik},
@@ -79,6 +79,7 @@ Paper under review
     booktitle = {
         International Journal of Computer Information Systems and Industrial Management Applications
     },
+    url = {https://www.mirlabs.org/ijcisim/regular_papers_2023/Paper29.pdf},
     year = {2022},
 }
 ```
