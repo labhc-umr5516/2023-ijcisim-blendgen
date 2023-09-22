@@ -86,7 +86,7 @@ Paper accepted at International Journal of Computer Information Systems and Indu
   keywords = {Blender ; Image Database Generation ; RGB-D images database ; CGI},
   pdf = {https://hal.science/hal-04205883/file/Paper29.pdf},
   hal_id = {hal-04205883},
-  hal_version = {v1},
+  hal_version = {v1}, 
 }
 ```
 
