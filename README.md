@@ -73,14 +73,20 @@ The regular workflow using BlendGen is the following.
 ## Cite
 Paper accepted at International Journal of Computer Information Systems and Industrial Management Applications
 ```
-@inproceedings{blendgen_ijcisim2022_cmaron,
-    author = {Cedric Maron, Virginie Fresse, Karynn Morand and Hubert Konik},
-    title = {BlendGen: A Blender Add-on for general RGB-D databases generation},
-    booktitle = {
-        International Journal of Computer Information Systems and Industrial Management Applications
-    },
-    url = {https://www.mirlabs.org/ijcisim/regular_papers_2023/Paper29.pdf},
-    year = {2022},
+@article{maron:hal-04205883,
+  title = {{BlendGen: A Blender Add-on for General RGB-D Databases Generation}},
+  author = {Maron, Cedric and Fresse, Virginie and Morand, Karynn and Konik, Hubert},
+  url = {https://hal.science/hal-04205883},
+  journal = {{International Journal of Computer Information Systems and Industrial Management Applications}},
+  publisher = {{Machine Intelligence Research Labs (MIR Labs)}},
+  volume = {15},
+  pages = {332--341},
+  year = {2023},
+  month = Jun,
+  keywords = {Blender ; Image Database Generation ; RGB-D images database ; CGI},
+  pdf = {https://hal.science/hal-04205883/file/Paper29.pdf},
+  hal_id = {hal-04205883},
+  hal_version = {v1},
 }
 ```
 
